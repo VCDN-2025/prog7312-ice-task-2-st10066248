@@ -1,0 +1,14 @@
+C:\Users\ameer\source\repos\TravelItineraryPlanner\TravelItineraryPlanner\bin\Debug\net8.0\TravelItineraryPlanner.exe
+C:\Users\ameer\source\repos\TravelItineraryPlanner\TravelItineraryPlanner\bin\Debug\net8.0\TravelItineraryPlanner.deps.json
+C:\Users\ameer\source\repos\TravelItineraryPlanner\TravelItineraryPlanner\bin\Debug\net8.0\TravelItineraryPlanner.runtimeconfig.json
+C:\Users\ameer\source\repos\TravelItineraryPlanner\TravelItineraryPlanner\bin\Debug\net8.0\TravelItineraryPlanner.dll
+C:\Users\ameer\source\repos\TravelItineraryPlanner\TravelItineraryPlanner\bin\Debug\net8.0\TravelItineraryPlanner.pdb
+C:\Users\ameer\source\repos\TravelItineraryPlanner\TravelItineraryPlanner\obj\Debug\net8.0\TravelItineraryPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameer\source\repos\TravelItineraryPlanner\TravelItineraryPlanner\obj\Debug\net8.0\TravelItineraryPlanner.AssemblyInfoInputs.cache
+C:\Users\ameer\source\repos\TravelItineraryPlanner\TravelItineraryPlanner\obj\Debug\net8.0\TravelItineraryPlanner.AssemblyInfo.cs
+C:\Users\ameer\source\repos\TravelItineraryPlanner\TravelItineraryPlanner\obj\Debug\net8.0\TravelItineraryPlanner.csproj.CoreCompileInputs.cache
+C:\Users\ameer\source\repos\TravelItineraryPlanner\TravelItineraryPlanner\obj\Debug\net8.0\TravelItineraryPlanner.dll
+C:\Users\ameer\source\repos\TravelItineraryPlanner\TravelItineraryPlanner\obj\Debug\net8.0\refint\TravelItineraryPlanner.dll
+C:\Users\ameer\source\repos\TravelItineraryPlanner\TravelItineraryPlanner\obj\Debug\net8.0\TravelItineraryPlanner.pdb
+C:\Users\ameer\source\repos\TravelItineraryPlanner\TravelItineraryPlanner\obj\Debug\net8.0\TravelItineraryPlanner.genruntimeconfig.cache
+C:\Users\ameer\source\repos\TravelItineraryPlanner\TravelItineraryPlanner\obj\Debug\net8.0\ref\TravelItineraryPlanner.dll
